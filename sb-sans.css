@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'SBSansDisplay';
+  font-weight: 600;
+  src:  url('SBSansDisplay-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SBSansDisplay';
+  font-weight: 300;
+  src:  url('SBSansDisplay-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SBSansDisplay';
+  font-weight: 400;
+  src:  url('SBSansDisplay-Regular.ttf') format('truetype');
+}
+
