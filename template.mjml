@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      @font-face {
+      font-family: 'SBSansDisplay';
+      font-weight: 600;
+      src: url('https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/SBSansDisplay-Bold.ttf') format('truetype');
+      }
+
+      @font-face {
+      font-family: 'SBSansDisplay';
+      font-weight: 300;
+      src: url('https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/SBSansDisplay-Light.ttf') format('truetype');
+      }
+
+      @font-face {
+      font-family: 'SBSansDisplay';
+      font-weight: 400;
+      src: url('https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/SBSansDisplay-Regular.ttf') format('truetype');
+      }
+      
+      body {
+      	font-family: SBSansDisplay;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#1D2634">
+    <mj-wrapper background-url="https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/desktop-bg.jpeg" background-size="cover">
+      <mj-section padding="133px 50px 18px">
+        <mj-column width="40%" padding-bottom="46px">
+          <mj-image width="158px" padding="0" src="https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/21-school.png" />
+        </mj-column>
+        <mj-column width="60%" padding-bottom="46px">
+          <mj-text font-family="SBSansDisplay arial" padding="0" padding-bottom="28px" font-size="28px" font-weight="600" color="#FFFFFF">
+            Открытие кампуса <br />
+            «Школы 21» в Сургуте
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" font-size="16px" font-weight="400" color="#EBECF4">
+            Cеверное айти-сияние
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="64px 50px">
+        <mj-column>
+          <mj-text font-family="SBSansDisplay arial" padding="0" padding-bottom="22px" font-size="22px" font-weight="400" color="#00FFAF">
+            Уважаемый/ая Имя Фамилия,
+            приглашаем вас на открытие нового кампуса «Школы 21»!
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" font-size="16px" font-weight="400" color="#FFFFFF">
+            «Школа 21» — это неповторимое и завораживающее
+            айти-явление в образовательной системе страны.
+            И вот, наконец, его сияние можно увидеть в Сургуте!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="64px 50px">
+        <mj-column>
+          <mj-text font-family="SBSansDisplay arial" padding="0" color="#FFFFFF" font-weight="300">
+            Дата проведения мероприятия:
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" padding-bottom="22px" font-size="24px" color="#00FFAF" font-weight="600">
+            3 апреля 2023 г.
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" color="#FFFFFF" font-weight="300">
+            Время начала:
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" padding-bottom="22px" font-size="24px" color="#00FFAF" font-weight="600">
+            13.00
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" color="#FFFFFF" font-weight="300">
+            Место проведения мероприятия:
+          </mj-text>
+          <mj-text font-family="SBSansDisplay arial" padding="0" font-size="24px" color="#00FFAF" font-weight="600">
+            г. Сургут ул. Иосифа Каролинского 14/1
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="64px 50px">
+        <mj-group>
+          <mj-column>
+            <mj-image width="74px" padding="0" src="https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/sber-logo.png" />
+          </mj-column>
+          <mj-column>
+            <mj-image width="60px" padding="0" src="https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/school-logo.png" />
+          </mj-column>
+          <mj-column>
+            <mj-image width="67px" padding="0" src="https://raw.githubusercontent.com/AlexStrNik/school21-mail/main/city-logo.png" />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
